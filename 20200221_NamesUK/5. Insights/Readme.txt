@@ -1,0 +1,1 @@
+Initial insight of data from the analysis is kept in this folder.
